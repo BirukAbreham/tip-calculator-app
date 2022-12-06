@@ -11,7 +11,7 @@ The challenge requires the design to be able to:
 
 ## Links
 
--   Live Site URL: [Tip Calculator App](https://countries-flags-six.vercel.app/)
+-   Live Site URL: [Tip Calculator App](https://tip-calculator-app-seven-rose.vercel.app/)
 
 ## My Process
 
